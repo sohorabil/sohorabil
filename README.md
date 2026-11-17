@@ -14,4 +14,4 @@ I design the system and break it into steps, build with Claude Code, then review
 
 **Stack:** Python · TypeScript · FastAPI · AWS · Kubernetes · Terraform · Jenkins · GitHub Actions · MCP · Claude API
 
-📫 [LinkedIn](https://www.linkedin.com/in/tukrim-sohorabil-aa183978/)
+📫 [LinkedIn](https://www.linkedin.com/in/tukrim-sohorabil/)
