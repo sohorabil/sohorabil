@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tukrim 👋
 
-<!--
-**sohorabil/sohorabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI automation & deployment engineer in New York. I came up through IT support and DevOps, so I build AI that ships safely: tested, monitored, and approved by a human where it matters.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Inference Benchmarker](https://github.com/sohorabil/inference-benchmarker)** — compares 5 AI vendors on cost and speed across text, image and video. [Live demo](https://inference-benchmarker.tukrim.workers.dev)
+- **[AI Control Plane](https://github.com/sohorabil/ai-control-plane)** — multi-provider AI gateway; used a 33-case eval set to move a workload to a cheaper, ~40% faster provider with equal quality.
+- **[Guardrail](https://github.com/sohorabil/ai-devops-platform)** — AI-governed CI/CD: Claude matches live incidents to runbooks via MCP; a human approves every fix.
+
+## How I build
+
+I design the system and break it into steps, build with Claude Code, then review, test and deploy every change through CI/CD.
+
+**Stack:** Python · TypeScript · FastAPI · AWS · Kubernetes · Terraform · Jenkins · MCP · Claude API
+
+📫 [LinkedIn](https://www.linkedin.com/in/tukrim-sohorabil-aa183978/)
